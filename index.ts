@@ -3,11 +3,11 @@ console.log("I am a naz");
 
 // * function define
 // @ts-ignore
-function sum1(a: number,b: number):number{
-    return a+b;
+function sum1(a: number, b: number): number {
+  return a + b;
 }
 
-console.log(sum1(3,2));
-
+console.log(sum1(3, 23));
 
 //* function define
+// if in error in tsc file than not run in index.js ===so the commend is ===tsc--init===ctr+f==nonemiton==true

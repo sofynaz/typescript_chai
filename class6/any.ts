@@ -1,0 +1,1 @@
+let maxLimit = (Number as any).MAX_SAFE_INTEGER
