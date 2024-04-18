@@ -18,7 +18,6 @@ const resultfunc = isDivisible(12, 16);
 console.log(resultfunc);
 // practice BigInt
 // let maxNumber = Number.MAX_SAFE_INTEGER;
-
 let maxNumber = 9007199254740992n;
 let anotherBig = 9007199254740993n;
 let totalSum = maxNumber + anotherBig;
